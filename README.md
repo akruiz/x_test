@@ -1,7 +1,7 @@
 # Energy Data Test
 
-Hello, this is my take on the test given Tesla Energy Data challenge which includes:
-1. tsla_energy.py file with ETL and 24 hour detection & data storage outputs
+This a given challenge give to me by x company:
+1. x_energy.py file with ETL and 24 hour detection & data storage outputs
 2. analysis.py file which outputs .html visualizations using csv 
 
 ### General Info
